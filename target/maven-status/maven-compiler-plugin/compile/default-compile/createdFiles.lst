@@ -1,0 +1,4 @@
+com\fabriciospringcloud\microservicios\app\zuul\oauth\ResourceServerConfig.class
+com\fabriciospringcloud\microservicios\app\zuul\filters\PreTiempoTranscurridoFilter.class
+com\fabriciospringcloud\microservicios\app\zuul\MicroserviciosZuulApplication.class
+com\fabriciospringcloud\microservicios\app\zuul\filters\PostTiempoTranscurridoFilter.class
